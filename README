@@ -18,8 +18,7 @@ coffee_shop/
 │   ├── test_customer.py
 │   ├── test_coffee.py
 │   └── test_order.py
-└── sql/
-    └── schema_and_queries.sql  # Optional SQL schema & queries
+
 ```
 
 ---
