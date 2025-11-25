@@ -45,3 +45,4 @@ class Order:
     @classmethod
     def all(cls) -> List["Order"]:
         return list(cls._all_orders)
+
